@@ -3,8 +3,8 @@ import { env } from "process"
 
 const config = {
   entryPoints: {
-    client: 'src/client/main.ts',
-    server: 'src/server/main.ts',
+    client: 'src/client/index.ts',
+    server: 'src/server/index.ts',
   },
   outdir: 'dist',
   bundle: true,
