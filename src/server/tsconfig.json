@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "types": ["@citizenfx/server", "@types/node"],
+    "allowJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "skipLibCheck": true
+  },
+  "include": ["./**/*", "../shared/**/*"],
+  "exclude": ["**/node_modules", "**/__tests__/*"]
+}
