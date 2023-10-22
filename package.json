@@ -10,13 +10,13 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@citizenfx/client": "^2.0.6269-1",
-    "@citizenfx/server": "^2.0.6269-1",
-    "@types/node": "^18.15.1",
+    "@citizenfx/client": "^2.0.6878-1",
+    "@citizenfx/server": "^2.0.6878-1",
+    "@types/node": "^20.3.0",
     "@typescript-eslint/eslint-plugin": "^5.59.9",
-    "@typescript-eslint/parser": "^5.55.0",
+    "@typescript-eslint/parser": "^5.59.9",
     "esbuild": "^0.18.1",
-    "eslint": "^8.36.0",
+    "eslint": "^8.52.0",
     "typescript": "^5.1.3"
   }
 }
