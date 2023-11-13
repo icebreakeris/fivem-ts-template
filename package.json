@@ -12,7 +12,7 @@
   "devDependencies": {
     "@citizenfx/client": "^2.0.6878-1",
     "@citizenfx/server": "^2.0.6878-1",
-    "@types/node": "^20.3.0",
+    "@types/node": "^20.9.0",
     "@typescript-eslint/eslint-plugin": "^5.59.9",
     "@typescript-eslint/parser": "^5.59.9",
     "esbuild": "^0.18.1",
