@@ -3,7 +3,11 @@
     "target": "ES6",
     "module": "CommonJS",
     "baseUrl": "./",
+    "lib": ["ES2017"],
     "types": ["@citizenfx/client"],
+    "paths": {
+      "shared/*": ["../shared/*"]
+    },
     "allowJs": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
